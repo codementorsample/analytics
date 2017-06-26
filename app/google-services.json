@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "963564779362",
+    "firebase_url": "https://project--8326682403618693328.firebaseio.com",
+    "project_id": "project--8326682403618693328",
+    "storage_bucket": "project--8326682403618693328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963564779362:android:573823098ac4e8fc",
+        "android_client_info": {
+          "package_name": "iiwakelist.com.lifeistech.android.googleanalyticssample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963564779362-sifo9sdnfngbr4etrsqle8jktrc1qkie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdwHiKHKahNNS0IjyIq_uQ2nnKJNC703w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
